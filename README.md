@@ -10,8 +10,6 @@
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-ko%C5%BEu%C5%A1n%C3%ADk-b66b77278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lukáš Kožušník" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005670045474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lukáš Kožušník" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lukaskozusnik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lukáš Kožušník" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
