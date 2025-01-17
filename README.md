@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukáš Kožušník</h1>
 <h3 align="center">🐍 Self-taught and motivated Python Developer 💻 | Automating the Future 🤖 | Exploring AI 🧠</h3>
 
-- 🔭 Currently working on: **Fully automated trading bot**
+- 🔭 Currently working on: **Stock analysis using LLMs**
 
-- 🌱 Currently learning about: **Artificial Intelligence**
+- 🌱 Currently learning about: **Django & DR Framework**
 
 - 📫 You can reach me by email: **lukinkozusnik@gmail.com**
 
